@@ -1,4 +1,4 @@
-Project Title: Distance Measurement with Capacitive Sensor – Smart Instruments Project
+Project Title: Distance Measurement with Capacitive Sensor
 
 Project Description:
 
